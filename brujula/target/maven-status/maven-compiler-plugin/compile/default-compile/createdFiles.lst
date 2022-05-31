@@ -1,0 +1,7 @@
+com\brujula\back\controller\CustomerController.class
+com\brujula\back\dto\CustomerDTO.class
+com\brujula\BrujulaApplication.class
+com\brujula\persistence\Customer.class
+com\brujula\service\CustomerService.class
+com\brujula\back\controller\CustomerController$1.class
+com\brujula\service\CustomerEJB.class
